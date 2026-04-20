@@ -30,89 +30,13 @@ format:
         </script>
 ---
 
-## Today {.today-slide}
+## Today
 
-:::: {.columns}
+1. **A clear mental model of Git** — what it is, what a repository is, and how GitHub fits in.
+2. **Your first repository** — how to start tracking a project without the workflow feeling mysterious.
+3. **A real commit pushed to GitHub** — enough confidence to try this on your own work.
 
-::: {.column style="width:50%; flex:0 0 50%;"}
-::: {.today-panel .today-panel-outcomes}
-::: {.today-panel-title}
-Three practical goals
-:::
-
-:::: {.today-goals}
-
-::: {.today-goal .today-goal-primary}
-::: {.today-goal-number}
-1
-:::
-::: {.today-goal-copy}
-**A clear mental model of Git**
-
-What it is, what a repository is, and how GitHub fits in.
-:::
-:::
-
-::: {.today-goal .today-goal-teal}
-::: {.today-goal-number}
-2
-:::
-::: {.today-goal-copy}
-**Your first repository**
-
-How to start tracking a project without making the workflow feel mysterious.
-:::
-:::
-
-::: {.today-goal .today-goal-accent}
-::: {.today-goal-number}
-3
-:::
-::: {.today-goal-copy}
-**A real commit pushed to GitHub**
-
-Enough confidence to try this on your own work.
-:::
-:::
-
-::::
-:::
-:::
-
-::: {.column style="width:50%; flex:0 0 50%;"}
-::: {.today-panel .today-panel-agenda}
-::: {.today-panel-title}
-Schedule
-:::
-
-::: {.today-session .today-session-hour1}
-::: {.today-session-time}
-14:00–15:00
-:::
-::: {.today-session-title}
-Concepts and demonstrations
-:::
-::: {.today-session-copy}
-Build the core ideas first, then watch the workflow happen end to end.
-:::
-:::
-
-::: {.today-session .today-session-hour2}
-::: {.today-session-time}
-15:00–16:00
-:::
-::: {.today-session-title}
-Practice
-:::
-::: {.today-session-copy}
-Make a repository, commit changes, and try the workflow yourself.
-:::
-:::
-
-:::
-:::
-
-::::
+[14:00–15:00 Concepts and demonstrations · 15:00–16:00 Practice]{.muted}
 
 ---
 
