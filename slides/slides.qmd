@@ -239,8 +239,6 @@ git commit -m "Add initial cleaning script"
 
 ---
 
-![](images/tower-screenshot.png){fig-align="center"}
-
 ## Local vs. remote repositories
 
 Local repository
@@ -344,15 +342,6 @@ A commit is a saved snapshot of the staged changes at one point in time.
 :::
 
 ::::
-
----
-
-## How Git thinks about your files
-
-- A file can sit in your project folder without being part of the repository yet
-- Git calls that file **untracked**
-- When you tell Git to watch it, the file becomes **tracked**
-- The hidden `.git` folder stores the repository history inside the project folder
 
 ---
 
